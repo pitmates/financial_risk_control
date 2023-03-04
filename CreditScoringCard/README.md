@@ -1,3 +1,5 @@
+# Credit Scoring Card
+Base on Logistic regression model.
 # Data
 Unzip the 'GiveMeSomeCredit.zip' from datasets folder and put the files to ./CreditScoringCard/data </p>
 ```
