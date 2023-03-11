@@ -12,3 +12,11 @@ Unzip the 'GiveMeSomeCredit.zip' from datasets folder and put the files to ./Cre
     |   |-- sampleEntry.csv
     |-- ...
 ```
+# baseline
+run the scripts in order:
+```
+python /file/to/path/MissingValue.py
+python /file/to/path/Outlier.py
+python /file/to/path/MissingValue.py
+python /file/to/path/Logistic.py
+```
